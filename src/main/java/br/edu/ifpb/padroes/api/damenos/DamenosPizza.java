@@ -1,6 +1,6 @@
 package br.edu.ifpb.padroes.api.damenos;
 
-public class DamenosPizza {
+public class DamenosPizza{
 
     private Float cost;
     private String name;
@@ -20,5 +20,6 @@ public class DamenosPizza {
     public void setName(String name) {
         this.name = name;
     }
+    
 }
 
